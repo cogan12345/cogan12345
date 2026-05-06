@@ -18,7 +18,7 @@
 class TeguhApriliyanto:
     def __init__(self):
         self.name        = "Teguh Apriliyanto"
-        self.alias       = "Teguh"
+        self.alias       = "King Teguh"
         self.university  = "Universitas Gunadarma"
         self.location    = "Indonesia 🇮🇩"
         self.focus       = ["AI Development", "Machine Learning", "Automation"]
@@ -78,8 +78,8 @@ class TeguhApriliyanto:
 |---------|-------------|------------|
 | 🤖 **[Razu OpenClaw](https://github.com/cogan12345/razu-openclaw)** | AI Agent berbasis WhatsApp menggunakan Claude API — merespons pesan, menjalankan perintah, dan membaca file secara otonom | Node.js · whatsapp-web.js · Claude API |
 | 🐟 **[Fish Freshness Classifier](https://github.com/cogan12345/fish-freshness-classifier)** | Sistem klasifikasi kesegaran ikan menggunakan Deep Learning dengan antarmuka Streamlit | Python · TensorFlow · Streamlit |
-| 🎓 **[IFLab Agent](https://github.com/cogan12345/iflab-agent)** | Agent otomatis untuk platform IFLab Gunadarma — solver quiz & manajemen tugas akademik | Python · Automation · Claude API |
-| 📚 **[VClass Agent](https://github.com/cogan12345/vclass-agent)** | Manajer tugas otonom untuk VClass (Moodle Gunadarma) — monitoring, pengumpulan, dan notifikasi | Python · Selenium · Moodle |
+| 🎓 **[IFLab Agent](https://github.com/cogan12345/iflab-agent)** | Intelligent agent berbasis Claude API untuk otomasi workflow akademik dan manajemen tugas | Python · Automation · Claude API |
+| 📚 **[VClass Agent](https://github.com/cogan12345/vclass-agent)** | Sistem monitoring tugas berbasis web scraping dengan notifikasi otomatis untuk platform Moodle | Python · Selenium · Moodle |
 | 🌐 **[Barokah Warna](https://github.com/cogan12345/barokah-warna)** | Website profesional toko cat keluarga — modern, responsif, siap produksi | HTML · CSS · JavaScript |
 | 📅 **[Personal Schedule](https://github.com/cogan12345/personal-schedule)** | Manajemen jadwal pribadi berbasis web dengan animasi modern | HTML · CSS · JS |
 
