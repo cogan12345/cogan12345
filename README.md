@@ -18,9 +18,8 @@
 class TeguhApriliyanto:
     def __init__(self):
         self.name        = "Teguh Apriliyanto"
-        self.alias       = "King Teguh"
+        self.alias       = "Teguh"
         self.university  = "Universitas Gunadarma"
-        self.npm         = "51422578"
         self.location    = "Indonesia 🇮🇩"
         self.focus       = ["AI Development", "Machine Learning", "Automation"]
         self.languages   = ["Python", "JavaScript", "Lua", "HTML/CSS"]
