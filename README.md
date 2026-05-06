@@ -145,7 +145,7 @@ class TeguhApriliyanto:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cogan12345.cogan12345&color=6AD6F5)
 
-*"Intelligence is not about knowing everything — it's about building systems that learn."*
+*"Intelligence is not about knowing everything  it's about building systems that learn."*
 
 </div>
 
